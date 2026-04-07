@@ -2,11 +2,10 @@
 
 Selamat datang di **WayFinder Roadmap Platform**!
 
-WayFinder adalah platform orkestrasi roadmap yang premium, modern, dan sangat interaktif. Platform ini mengubah daftar tugas standar menjadi pelacak kemajuan yang fungsional dan menarik secara visual, memungkinkan Anda untuk mengelola langkah-langkah proyek dengan lancar, menghasilkan roadmap otomatis menggunakan AI, dan melacak kemajuan penyelesaian melalui antarmuka yang dibuat dengan indah.
+WayFinder adalah platform orkestrasi roadmap yang premium, modern, dan sangat interaktif. Platform ini mengubah daftar tugas standar menjadi pelacak kemajuan yang fungsional dan menarik secara visual, memungkinkan Anda untuk mengelola langkah-langkah proyek dengan lancar dan melacak kemajuan penyelesaian melalui antarmuka yang dibuat dengan indah.
 
 ## 🌟 Fitur Utama
 
-- **Roadmap Otomatis & Manual**: Hasilkan roadmap komprehensif secara instan menggunakan alat AI yang terintegrasi, atau buat secara manual langkah demi langkah.
 - **Manajemen Langkah Interaktif**: Tambah, edit, dan atur ulang langkah-langkah roadmap dengan mudah.
 - **Estetika Desain Premium**: Nikmati UI glassmorphic modern yang dilengkapi dengan token warna HSL, animasi mikro yang halus (didukung oleh Framer Motion), dan ikonografi yang indah (Lucide React).
 - **Dukungan Mode Gelap/Terang**: Beralih dengan mulus antara tema gelap dan terang yang disesuaikan untuk visibilitas dan kenyamanan optimal.
@@ -60,7 +59,6 @@ Pastikan Anda telah menginstal utilitas berikut:
 
 1. **Beranda Dasbor**: Saat pertama kali dibuka, Anda akan melihat ringkasan roadmap aktif dan kemajuan Anda saat ini.
 2. **Membuat Roadmap**:
-   - Pilih "Hasilkan Roadmap" untuk membuat alur panduan bagi tujuan tertentu secara cepat (menggunakan AI/otomatis).
    - Atau, buat secara manual dan tentukan tugas-tugas proyek Anda sendiri.
 3. **Kelola Tugas**: Klik langkah roadmap mana pun secara interaktif untuk mengedit detailnya, menandainya sebagai selesai, atau menghapusnya sama sekali. Perhatikan bilah kemajuan yang diperbarui secara real-time setiap kali Anda mencentang sebuah tugas.
 4. **Cari & Filter**: Temukan tugas tertentu dengan cepat menggunakan fungsi pencarian real-time bawaan yang kami sediakan.
